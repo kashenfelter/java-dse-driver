@@ -96,11 +96,6 @@ The DSE Java Driver is a drop-in replacement of the Java driver for Apache Cassa
 require a large adaptation effort to upgrade from the Java driver for Apache Cassandra.
 For more information see [the FAQ](/faq/).
 
-### Troubleshooting
-
-If you are having issues connecting to the cluster (seeing `NoHostAvailableConnection` exceptions) please check the 
-[connection requirements](https://github.com/datastax/java-driver/wiki/Connection-requirements).
-
 ## License
 
 Copyright (C) 2012-2017 DataStax Inc.
