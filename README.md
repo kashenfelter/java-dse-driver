@@ -84,8 +84,8 @@ The DataStax Enterprise Java driver is currently tested and supported against Da
 
 The DSE Graph module is only usable against DSE 5.0+.
 
-__Disclaimer__: Some _DataStax/DataStax Enterprise_ products might partially work on 
-big-endian systems, but _DataStax_ does not officially support these systems.
+__Disclaimer__: Some DataStax/DataStax Enterprise products might partially work on 
+big-endian systems, but DataStax does not officially support these systems.
 
 ## Upgrading from previous versions
 
